@@ -23,7 +23,7 @@ https://zenodo.org/records/11092208
 
 This expanded version contains:
 - 8.7 GB of high-resolution macroscopic images
-- 32 wood species with multiple samples each
+- 37 wood species with multiple samples each
 - 24x magnification captures using specialized equipment
 
 After downloading, unzip the dataset and use the directory structure as:
